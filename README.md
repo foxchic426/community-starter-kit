@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+edit , learn to merge, and pull requests using this interface
 
 ## What it does
 
-FEATURES PLACEHOLDER
+the welcome bot introduces itself to new users and this course teaches the outline of repositories
 
 ## Getting started
 
